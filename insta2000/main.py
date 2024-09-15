@@ -18,7 +18,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Check Instagram updates for a given number of days.")
     parser.add_argument('--days', type=int, default=7, help="Number of days to check for updates (default: 7)")
     parser.add_argument('--public-only', action='store_true', help="Download only public posts if set.")
-    parser.add_argument('--webpage_only', action='store_true', help="Download only public posts if set.")
+    parser.add_argument('--webpage-only', action='store_true', help="Download only public posts if set.")
 
 
     args = parser.parse_args()
