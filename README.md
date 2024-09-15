@@ -13,7 +13,7 @@ Here is a sample of the past day of public posts from my own network:
 
 ## Important Note
 
-DISCLAIMER: While this project operates within Instagram's Terms of Service (TOS), Instagram may not approve of scraping. There is a small risk that your account could be flagged or banned. Use at your own risk! I personally haven't faced any issues but accept the possibility of account loss.
+DISCLAIMER: While this project operates within my interpretation Instagram's Terms of Service (TOS), Instagram may not approve. There is a risk that your account could be flagged or banned. Use at your own risk! I personally haven't faced any issues, but accept the possibility of account loss.
 
 ## Getting Started
 
@@ -53,12 +53,10 @@ rate limit constraints. Once finished, it will serve your website from the local
 
 # Contributing 
 
-This project is a proof-of-concept from a hackathon but has room for growth. If you'd like to contribute:
+This project is a proof-of-concept but would be fun to expand on! I'm open to suggestions and collaborations. Feel free to open issues or start a discussion! If there's enough interest, I can create a Discord server for more interactive discussions.
+
+If you want to contribute, please:
 
 1. Fork the repository.
 2. Create a new branch for your feature (git checkout -b feature-branch).
 3. Submit a pull request (PR) with a description of your changes.
-
-I'm open to suggestions and collaborations. Feel free to open issues or start a discussion! If there's enough interest, I can create a Discord server for more interactive discussions.
-
-Would love to see where we can take this project together!
